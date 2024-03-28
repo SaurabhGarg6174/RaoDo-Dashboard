@@ -1,4 +1,4 @@
-import "../styles/Highlights.css";
+import "../Styles/Highlights.css";
 
 export default function Highlights() {
   const data = {

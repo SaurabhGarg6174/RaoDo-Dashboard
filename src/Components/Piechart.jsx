@@ -1,7 +1,7 @@
 import React from "react";
 import { Chart } from "react-google-charts";
 import data from "../Assets/Data.js";
-import "../styles/Piechart.css";
+import "../Styles/Piechart.css";
 
 export default function Piechart() {
   const colors = ["#FFCB49", "#7464FF", "#4FD2B5"];

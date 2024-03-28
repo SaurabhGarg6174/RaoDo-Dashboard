@@ -1,4 +1,4 @@
-import "../styles/Dashboard.css";
+import "../Styles/Dashboard.css";
 import HighPriority from "./HighPriority";
 import Piechart from "./Piechart";
 

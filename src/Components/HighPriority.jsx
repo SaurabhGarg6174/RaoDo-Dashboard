@@ -1,4 +1,4 @@
-import "../styles/HighPriority.css"
+import "../Styles/HighPriority.css"
 
 export default function HighPriority(props){
 
