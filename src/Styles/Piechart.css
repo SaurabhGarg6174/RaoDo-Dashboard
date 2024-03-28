@@ -1,0 +1,17 @@
+.piechart-container{
+    display: "flex"; 
+    flex-direction: "row";
+}
+.piechart-container .piechart-card{
+    margin: "10px 12px";
+    width: "196px";
+    height: "266px";
+    border-radius: "12px";
+    background-color: "#ffffff"; 
+}
+
+.legendName{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}

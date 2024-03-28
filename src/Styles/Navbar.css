@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    width: 64px;
+    height: 720px;
+    gap: 1rem;
+    align-items: center;
+    padding-top: 24px;
+  }
+  ul li img {
+    width: auto;
+    width: 32px;
+    height: 29px;
+  }
+  .material-symbols-outlined {
+    color: #676666;
+  }
+  
